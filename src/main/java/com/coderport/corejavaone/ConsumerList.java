@@ -1,4 +1,4 @@
-package com.coderlovin.corejavaone;
+package com.codelovin.corejavaone;
 
 import java.util.ArrayList;
 import java.util.List;
